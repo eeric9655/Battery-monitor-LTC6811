@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "ltc6811_esp",
+			"path": "."
+		},
+		{
+			"name": "un55",
+			"path": "../un55"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\bin\Debug\batterySerialMonitpr.exe.config
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\bin\Debug\batterySerialMonitpr.exe
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\bin\Debug\batterySerialMonitpr.pdb
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\obj\Debug\batterySerialMonitpr.csproj.AssemblyReference.cache
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\obj\Debug\batterySerialMonitpr.Form1.resources
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\obj\Debug\batterySerialMonitpr.Properties.Resources.resources
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\obj\Debug\batterySerialMonitpr.csproj.GenerateResource.cache
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\obj\Debug\batterySerialMonitpr.csproj.CoreCompileInputs.cache
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\obj\Debug\batterySerialMonitpr.exe
+C:\Users\rk\source\repos\batterySerialMonitpr\batterySerialMonitpr\obj\Debug\batterySerialMonitpr.pdb
